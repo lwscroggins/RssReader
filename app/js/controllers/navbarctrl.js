@@ -10,7 +10,7 @@ module.exports = function(app) {
 			},
 			{
 				'title': 'Add feed',
-				'link': '/addfeed'
+				'link': '#/addfeed'
 			}
 		];
 
